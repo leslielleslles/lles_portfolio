@@ -23,7 +23,7 @@
 
 ### Project 6
 - Description
-- [Github Repository]([https://github.com/mids-w203/lab-2-cotter_komorowski_pak_nie.git](https://github.com/SeanSenev/Capstone.git))
+- [Github Repository](https://github.com/SeanSenev/Capstone.git)
 
 ### Project 7
 - Description
